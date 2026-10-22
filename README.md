@@ -6,7 +6,7 @@ VagOS is our journey into building and understanding a Linux distribution from t
 
 We're a group of developers learning systems programming, Linux internals, and operating system fundamentals by building something of our own.
 
-### 🎯 Goals
+### 🎯 Goals.
 
 - Build our own Linux-based system using Linux From Scratch.
 - Understand how a Linux system is assembled from source.
